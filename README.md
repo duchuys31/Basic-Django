@@ -13,4 +13,6 @@
  -> python manage.py migrate
  # Tạo tài khoản admin
  -> python manage.py createsuperuser
+ # Chạy test
+ -> python manage.py test <folder>
  

@@ -15,5 +15,5 @@
  -> python manage.py createsuperuser
  # Chạy test
  -> python manage.py test <folder>
- # add folder 'static/home' to folder 'home' to run code
+ # Add folder 'static/home' to folder 'home' to run code
  
